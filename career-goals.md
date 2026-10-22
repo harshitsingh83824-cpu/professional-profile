@@ -1,7 +1,7 @@
 # Career Goals
 
 ## Short-term Goal
-Get better at Python and C and land a tech internship.
+Strengthen my Python and C skills through projects and secure a software development internship by the end of my second year.
 
 ## Long-term Goal
-Work as a software engineer building AI products.
+Become an AI/ML engineer building intelligent products that make technology more useful and accessible to people.
